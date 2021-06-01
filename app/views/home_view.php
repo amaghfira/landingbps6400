@@ -69,7 +69,7 @@
         <a href="https://lk.bpskaltim.com" target="_blank" class="text-decoration-none text-reset" style="color">
             <div class="border rounded-1 border-700 h-100 features-items">
             <div class="p-5">
-                <img src="assets/img/gallery/dashboardicon.png" alt="Dashboard" style="width:48px;height:48px;" />
+                <img src="assets/img/gallery/daily2.png" alt="Dashboard" style="width:100px;" />
                 <h3 class="pt-3 lh-base">Daily Activity</h3>
                 <p class="mb-0">Pencatatan kegiatan harian secara online</p>
             </div>
