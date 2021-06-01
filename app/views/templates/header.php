@@ -27,6 +27,14 @@
 
     <link href="<?php echo base_url('assets/vendors/swiper/swiper-bundle.min.css'); ?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/css/landing.css'); ?>" rel="stylesheet">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- ===============================================-->
+    <!--    JS-->
+    <!-- ===============================================-->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
 </head>
 
 

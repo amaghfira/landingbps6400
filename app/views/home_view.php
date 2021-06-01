@@ -61,7 +61,13 @@
 <!-- <section> begin ============================-->
 <section id="aplikasi">
 
-<div class="container" >
+<!-- INITIALIZE AOS -->
+<script>
+  AOS.init();
+</script>
+<!-- ============================================ -->
+
+<div class="container" data-aos="fade-up" data-aos-duration="1000">
     <h1 class="display-6 fw-semi-bold" style="color:cadetblue"> Aplikasi & Sistem Informasi</h1>
     <p class="fs-2">BPS Provinsi Kalimantan Timur</p>
     <div class="row mb-4 mt-6">
