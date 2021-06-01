@@ -9,7 +9,7 @@
             <h2>Aplikasi BPS Provinsi Kalimantan Timur</h2>
         </div>
         <div class="col-md-9 col-xl-5" id="desc">
-            <p class="fs-2">Selamat datang di Portal Intergasi Aplikasi BPS Kaltim.</p>
+            <p class="fs-2">Selamat datang di Portal Integrasi Aplikasi BPS Kaltim.</p>
             <br>
             <button class="btn btn-primary mt-3" onclick="window.location='#aplikasi'" style="background-color:cadetblue; border:none;">Mulai Jelajahi</button>
         </div>
@@ -80,7 +80,7 @@
         <a href="<?php base_url(); ?>kalender" target="_blank" class="text-decoration-none text-reset">
             <div class="border rounded-1 border-700 h-100 features-items">
             <div class="p-5">
-                <img src="assets/img/gallery/comment.png" alt="Comment" style="width:48px;height:48px;" />
+                <img src="assets/img/gallery/zoom.png" alt="Comment" style="width:100px;" />
                 <h3 class="pt-3 lh-base">Kalender Zoom</h3>
                 <p class="mb-0">Daftar dan lihat jadwal zoom BPS Kaltim</p>
             </div>
@@ -115,7 +115,7 @@
         <a href="http://sdgskaltim.id" class="text-decoration-none text-reset" target="_blank">
             <div class="border rounded-1 border-700 h-100 features-items">
             <div class="p-5">
-                <img src="<?php echo base_url(); ?>assets/img/gallery/utan.png" alt="Statistic" style="width:48px;height:48px;" />
+                <img src="<?php echo base_url(); ?>assets/img/gallery/utan.png" alt="Statistic" style="width:70px;" />
                 <h3 class="pt-3 lh-base">Stater Bang Utan</h3>
                 <p class="mb-0">Sistem yang dibuat sebagai sarana pengelolaan data terpadu yang bersumber dari hasil kegiatan survei/sensus yang dilakukan oleh BPS serta data administratif hasil pencatatan dari berbagai Organisasi Perangkat Daerah (OPD) serta smart data.</p>
             </div>

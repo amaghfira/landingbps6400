@@ -36,7 +36,7 @@
 <!-- ===============================================-->
 <main class="main" id="top">
     <nav class="navbar navbar-light sticky-top navbar-default" data-navbar-darken-on-scroll="900">
-    <div class="container pt-2"><a class="navbar-brand" href="index.html"> <img id="logobps" src="assets/img/gallery/LogoBPS.png" alt="..." /></a><p>BPS Provinsi Kalimantan Timur</p>
+    <div class="container pt-2"><a class="navbar-brand" href="<?php echo base_url(); ?>"> <img id="logobps" src="assets/img/gallery/logobpsbenar.png" alt="..." style="width:250px"/></a>
         <div class="navbar-nav ms-auto">
             <!-- <button class="btn btn-secondary">Aplikasi BPS Kaltim</button> -->
             <ul class="navbar-nav ml-auto navbar-right">
